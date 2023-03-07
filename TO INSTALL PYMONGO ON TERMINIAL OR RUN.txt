@@ -1,0 +1,13 @@
+TO INSTALL PYMONGO ON TERMINIAL
+
+1.ls
+2.cd review_scrapper-aws-m
+3.pip install pymongo
+
+
+TO RUN CODE 
+1.ls
+2.cd reveiw-scrapper-aws-m
+3.pip install -r requirments.txt
+4.python app.py
+
